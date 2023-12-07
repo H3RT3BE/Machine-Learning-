@@ -3,7 +3,7 @@
 Este repositorio contiene datos e implementaciones relacionadas con el análisis de indicadores municipales en la región de la Sabana. Se utilizan dos conjuntos de datos principales:
 
 1. **Indicadores_municipales_sabana_DIC:**
-   - Este archivo, `Indicadores_municipales_sabana_DIC`, sirve como diccionario para el conjunto de datos correspondiente. Es utilizado en conjunto con el código desarrollado desde cero ("scratch").
+   - Este archivo, `Indicadores_municipales_sabana_DIC`, sirve como diccionario para el conjunto de datos correspondiente. Es utilizado en conjunto con el código desarrollado desde cero ("scratch") , que usa el dataset`Indicadores_municipales_sabana_DA` para su desarrollo.
 
 2. **Kaggle Dataset:**
    - Se emplea un conjunto de datos de Kaggle para trabajar específicamente con el algoritmo de árbol de decisión (`Desision_Tree`).
