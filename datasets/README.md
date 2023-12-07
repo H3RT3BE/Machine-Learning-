@@ -1,24 +1,27 @@
 # Project Description
-This repository contains data and implementations related to the analysis of municipal indicators in the Sabana region. Two main datasets are utilized:
 
-## Indicadores_municipales_sabana_DIC:
+This repository encompasses data and implementations pertaining to the analysis of municipal indicators within the Sabana region. The project leverages two primary datasets:
 
-This file, Indicadores_municipales_sabana_DIC, serves as a dictionary for the corresponding dataset. It is used in conjunction with code developed from scratch, which utilizes the dataset Indicadores_municipales_sabana_DA.
-Kaggle Dataset:
+## 1. Indicadores_municipales_sabana_DIC:
 
-A Kaggle dataset is employed specifically for working with the decision tree algorithm (Decision_Tree).
-##File Structure
-Indicadores_municipales_sabana_DIC: Contains the dictionary used for the Sabana dataset.
+This file, `Indicadores_municipales_sabana_DIC`, operates as a dictionary for the corresponding dataset. It is utilized in conjunction with code developed from scratch, making use of the dataset `Indicadores_municipales_sabana_DA`.
 
-Indicadores_municipales_sabana_DA: Contains the dataset used for development.
+## 2. Kaggle Dataset:
 
-Decision_Tree: Includes files related to the implementation and analysis using the decision tree algorithm.
+A Kaggle dataset has been specifically chosen for its applicability to the decision tree algorithm (`Decision_Tree`).
 
-## Usage
-Working with Data from Scratch:
+# File Structure
 
-Utilize the Indicadores_municipales_sabana_DIC dictionary to work with data obtained from Indicadores_municipales_sabana_DA.
-Decision Tree:
+- `Indicadores_municipales_sabana_DIC`: Contains the dictionary essential for the Sabana dataset.
+- `Indicadores_municipales_sabana_DA`: Holds the dataset used during the development phase.
+- `Decision_Tree`: Encompasses files associated with the implementation and analysis using the decision tree algorithm.
 
-Employ the Kaggle dataset in the Decision_Tree folder to perform analysis using the decision tree algorithm.
+# Usage
 
+## Working with Data from Scratch:
+
+Utilize the `Indicadores_municipales_sabana_DIC` dictionary to process data obtained from `Indicadores_municipales_sabana_DA`.
+
+## Decision Tree:
+
+Employ the Kaggle dataset within the `Decision_Tree` directory to conduct analyses leveraging the decision tree algorithm.
