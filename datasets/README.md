@@ -21,15 +21,4 @@ Este repositorio contiene datos e implementaciones relacionadas con el análisis
 - **Árbol de Decisión:**
   - Emplea el conjunto de datos de Kaggle en la carpeta `Desision_Tree` para realizar análisis utilizando el algoritmo de árbol de decisión.
 
-## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, sigue estos pasos:
-1. Realiza un fork del proyecto.
-2. Crea una rama para tu contribución (`git checkout -b feature/nueva-contribucion`).
-3. Realiza tus cambios (`git commit -am 'Añade nueva contribución'`).
-4. Haz push a la rama (`git push origin feature/nueva-contribucion`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia XYZ. Consulta el archivo [LICENSE.md](LICENSE.md) para obtener más detalles.
