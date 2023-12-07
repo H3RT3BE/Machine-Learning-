@@ -1,24 +1,24 @@
-# Descripción del Proyecto
+Project Description
+This repository contains data and implementations related to the analysis of municipal indicators in the Sabana region. Two main datasets are utilized:
 
-Este repositorio contiene datos e implementaciones relacionadas con el análisis de indicadores municipales en la región de la Sabana. Se utilizan dos conjuntos de datos principales:
+Indicadores_municipales_sabana_DIC:
 
-1. **Indicadores_municipales_sabana_DIC:**
-   - Este archivo, `Indicadores_municipales_sabana_DIC`, sirve como diccionario para el conjunto de datos correspondiente. Es utilizado en conjunto con el código desarrollado desde cero ("scratch") , que usa el dataset`Indicadores_municipales_sabana_DA` para su desarrollo.
+This file, Indicadores_municipales_sabana_DIC, serves as a dictionary for the corresponding dataset. It is used in conjunction with code developed from scratch, which utilizes the dataset Indicadores_municipales_sabana_DA.
+Kaggle Dataset:
 
-2. **Kaggle Dataset:**
-   - Se emplea un conjunto de datos de Kaggle para trabajar específicamente con el algoritmo de árbol de decisión (`Desision_Tree`).
+A Kaggle dataset is employed specifically for working with the decision tree algorithm (Decision_Tree).
+File Structure
+Indicadores_municipales_sabana_DIC: Contains the dictionary used for the Sabana dataset.
 
-## Estructura de Archivos
+Indicadores_municipales_sabana_DA: Contains the dataset used for development.
 
-- `Indicadores_municipales_sabana_DIC`: Contiene el diccionario utilizado para el conjunto de datos de la Sabana.
-- `Desision_Tree`: Incluye archivos relacionados con la implementación y análisis utilizando el algoritmo de árbol de decisión.
+Decision_Tree: Includes files related to the implementation and analysis using the decision tree algorithm.
 
-## Uso
+Usage
+Working with Data from Scratch:
 
-- **Trabajo con Datos desde Cero:**
-  - Utiliza el diccionario `Indicadores_municipales_sabana_DIC` para trabajar con datos creados desde cero.
+Utilize the Indicadores_municipales_sabana_DIC dictionary to work with data obtained from Indicadores_municipales_sabana_DA.
+Decision Tree:
 
-- **Árbol de Decisión:**
-  - Emplea el conjunto de datos de Kaggle en la carpeta `Desision_Tree` para realizar análisis utilizando el algoritmo de árbol de decisión.
-
+Employ the Kaggle dataset in the Decision_Tree folder to perform analysis using the decision tree algorithm.
 
